@@ -5,6 +5,6 @@ Bash Script ile kodlanmış olup, Linux ortamında çalışmaktadır.
 
 Kullanımı;
 
-git clone https://github.com/thtceys/cyberhunter<br>
-cd cyberhunter<br>
-bash cyberhunter.sh<br>
+git clone https://github.com/saricayemre/cyberhunter
+cd cyberhunter
+bash cyberhunter.sh
